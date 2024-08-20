@@ -1,0 +1,120 @@
+[
+    {
+      "id": 1,
+      "name": "IIT Madras - Indian Institute of Technology - [IITM], Chennai",
+      "rating": 4.5,
+      "fees": 200000,
+      "userReviewRating": 4.7,
+      "featured": true
+    },
+    {
+      "id": 2,
+      "name": "IIT Delhi - Indian Institute of Technology[IITD] ,New Delhi",
+      "rating": 4.0,
+      "fees": 150000,
+      "userReviewRating": 4.4,
+      "featured": false
+    },
+    {
+        "id": 3,
+        "name": "Parul University, Vadodra",
+        "rating": 4.5,
+        "fees": 250000,
+        "userReviewRating": 4.3,
+        "featured": false
+      },
+      {
+        "id": 4,
+        "name": "IIT Bombay - Indian Institute of Technology - [IITB], Mumbai",
+        "rating": 4.0,
+        "fees": 140000,
+        "userReviewRating": 4.2,
+        "featured": false
+      },
+
+      {
+        "id": 5,
+        "name": "IIT Roorke - Indian Institute of Technology - [IITR], Roorke",
+        "rating": 4.5,
+        "fees": 110000,
+        "userReviewRating": 4.8,
+        "featured": true
+      },
+      {
+        "id": 6,
+        "name": "Mangalyatan University, Dehradoon",
+        "rating": 4.0,
+        "fees": 320000,
+        "userReviewRating": 3.1,
+        "featured": false
+      },
+
+      {
+        "id": 7,
+        "name": "Chandigarh University, Chnadigarh",
+        "rating": 4.5,
+        "fees": 233000,
+        "userReviewRating": 3.7,
+        "featured": true
+      },
+      {
+        "id": 8,
+        "name": "Lovely Professional University - [LPU], Punjab",
+        "rating": 4.0,
+        "fees": 314000,
+        "userReviewRating": 4.9,
+        "featured": false
+      },
+
+      {
+        "id": 9,
+        "name": "Sharda University, Agra",
+        "rating": 4.5,
+        "fees": 133000,
+        "userReviewRating": 4.7,
+        "featured": true
+      },
+      {
+        "id": 10,
+        "name": "Dayalbagh Engineering College, Agra",
+        "rating": 4.0,
+        "fees": 450000,
+        "userReviewRating": 3.1,
+        "featured": false
+      },
+
+      {
+        "id": 11,
+        "name": "Faculty of Engineering and Technology, Agra",
+        "rating": 4.5,
+        "fees": 220000,
+        "userReviewRating": 4.7,
+        "featured": true
+      },
+      {
+        "id": 12,
+        "name": "Manipal University, Dehradoon",
+        "rating": 4.0,
+        "fees": 105000,
+        "userReviewRating": 4.4,
+        "featured": false
+      },
+
+      {
+        "id": 13,
+        "name": "UPES, Dehradoon",
+        "rating": 4.5,
+        "fees": 328000,
+        "userReviewRating": 4.7,
+        "featured": true
+      },
+      {
+        "id": 14,
+        "name": "Aligarh Muslim University, [AMU], Aligarh",
+        "rating": 4.0,
+        "fees": 313000,
+        "userReviewRating": 4.4,
+        "featured": false
+      }
+  ]
+  
